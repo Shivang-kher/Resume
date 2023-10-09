@@ -1,4 +1,4 @@
-##About me
+#About me
 
 I am an aspiring Computer Science and Engineering student with a strong passion for technology and innovation. Currently pursuing my B.Tech degree, I have gained hands-on experience in web development, security, and software engineering. My project portfolio includes creating a CLI-based Antivirus Scanner and contributing to the development of a EV Charging system 
 
